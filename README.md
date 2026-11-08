@@ -1,19 +1,30 @@
-# Hi, I'm Bor-5 👋
+# Hi, I'm Staicy Chepchumba 👋
 
-Networking student from Kenya | Learning Cyber Security
+Computer Science Student | Aspiring Cyber Security Specialist
 
-### What I'm learning now:
-- Networking & IP Addressing
+I'm just starting my journey in Cyber Security. I don't know much yet, but I'm learning every day and I'm serious about this.
+
+### About Me:
+- 📚 Studying Computer Science
+- 🎯 Goal: Specialize in Cyber Security
+- 🌱 Currently a complete beginner - learning from the basics
+- 🇰🇪 Based in Kenya
+
+### What I'm Learning Right Now:
+- Computer Networks & How The Internet Works
 - Linux Basics
-- Python for Hacking
-- HackTheBox & TryHackMe
+- Python Basics
+- Cyber Security Fundamentals
 
-### My Goals:
-- Finish HackTheBox Starting Point
-- Build my first hacking tools in Python
-- Get my first bug bounty
+### My Roadmap:
+- [ ] Learn Networking properly
+- [ ] Learn Linux
+- [ ] Learn Python for Security
+- [ ] Try HackTheBox - Starting Point
+- [ ] Try TryHackMe - Pre-Security Path
 
-### Tools I'm learning:
-`Python` `Nmap` `Wireshark` `Linux` `Git`
+### Why Cyber Security?
+I want to understand how systems are attacked so I can learn how to defend them.
 
-📫 Reach me here on GitHub - I'm open to learning with others!
+---
+*Follow my journey - I'm documenting everything from Day 1.*
